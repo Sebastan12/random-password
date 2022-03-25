@@ -1,0 +1,14 @@
+{
+    "name": "sebastian/random-password",
+    "description": "Easily Generate a random password",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Kargl",
+            "email": "random-password@sebastiankargl.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
