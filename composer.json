@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "RandomPassword\\": "src/RandomPassword/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    }
 }
